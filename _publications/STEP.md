@@ -2,7 +2,7 @@
 title: "STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking"
 collection: publications
 category: conferences
-#permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/STEP
 excerpt: 'The first Spiking Transformer evaluating models on various datasets and neuron encoding shcemas via unified method."
 date: 2025-05
 venue: 'NeurIPS 2025'

@@ -2,7 +2,7 @@
 title: "TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers"
 collection: publications
 category: conferences
-#permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/TEFormer
 excerpt: 'The first brain-inspired bi-directional temporal enhancement on Spiking Transformers.'
 date: 2026-01
 venue: 'arxiv'

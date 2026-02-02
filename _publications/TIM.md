@@ -2,7 +2,7 @@
 title: "TIM: an efficient temporal interaction module for spiking transformer"
 collection: publications
 category: conferences
-#permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/TIM
 excerpt: 'The first Spiking Transformer enhancement method from the perspective of temporal enhancement."
 date: 2025-05
 venue: 'IJCAI 2024'
