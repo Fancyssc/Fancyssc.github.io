@@ -4,9 +4,9 @@ collection: publications
 category: conferences
 #permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'The first brain-inspired bi-directional temporal enhancement on Spiking Transformers.'
-date: 2026-01-27
+date: 2026-01
 venue: 'arxiv'
-citation: "**Shen S**, Lv M, Han B, et al. TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers"
+citation: "Shen, S., Lv, M., Han, B., Zhao, D., Shen, G., Zhao, F., & Zeng, Y. (2026). TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers"
 paperurl: 'https://arxiv.org/pdf/2601.18274'
 ---
 **Abstract:** 
