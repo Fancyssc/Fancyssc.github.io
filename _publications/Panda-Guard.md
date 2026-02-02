@@ -3,7 +3,7 @@ title: "PANDAGUARD: Systematic Evaluation of LLM Safety against Jailbreaking Att
 collection: publications
 category: conferences
 #permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'The first Spiking Transformer evaluating models on various datasets and neuron encoding shcemas via unified method."
+excerpt: 'We introduce PandaGuard and PandaBench, a unified, reproducible framework and benchmark for systematically evaluating LLM jailbreak attacks, defenses, and judges, revealing that no single defense is universally optimal and that judge disagreement significantly affects safety assessments."
 date: 2025-05
 venue: 'arxiv'
 citation: "Shen, G., Zhao, D., Feng, L., He, X., Wang, J., Shen, S., ... & Zeng, Y. (2025). PANDAGUARD: Systematic Evaluation of LLM Safety against Jailbreaking Attacks."
