@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Panda-Guard
 excerpt: 'We introduce PandaGuard and PandaBench, a unified, reproducible framework and benchmark for systematically evaluating LLM jailbreak attacks, defenses, and judges, revealing that no single defense is universally optimal and that judge disagreement significantly affects safety assessments."
-date: 2025-05
+date: 2025-05-01
 venue: 'arxiv'
 citation: "Shen, G., Zhao, D., Feng, L., He, X., Wang, J., Shen, S., ... & Zeng, Y. (2025). PANDAGUARD: Systematic Evaluation of LLM Safety against Jailbreaking Attacks."
 paperurl: 'https://arxiv.org/pdf/2505.13862'

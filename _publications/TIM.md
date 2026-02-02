@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/TIM
 excerpt: 'The first Spiking Transformer enhancement method from the perspective of temporal enhancement."
-date: 2025-05
+date: 2024-01-01
 venue: 'IJCAI 2024'
 citation: "Shen, S., Zhao, D., Shen, G., & Zeng, Y. (2024). TIM: an efficient temporal interaction module for spiking transformer."
 paperurl: 'https://www.ijcai.org/proceedings/2024/0347.pdf'

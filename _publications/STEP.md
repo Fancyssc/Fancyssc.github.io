@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/STEP
 excerpt: 'The first Spiking Transformer evaluating models on various datasets and neuron encoding shcemas via unified method."
-date: 2025-05
+date: 2025-05-01
 venue: 'NeurIPS 2025'
 citation: "Shen, S., Zhao, D., Feng, L., Yue, Z., Li, J., Li, T., ... & Zeng, Y. (2025). STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking."
 paperurl: 'https://arxiv.org/pdf/2505.11151'
