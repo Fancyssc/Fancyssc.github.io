@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "ssc.jpeg"
+  name             : "Shen Sicheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "ph.D Candidate working on brain-inspired AI & LLM and Embodied AI Safety"
+  location         : "Beijing"
+  employer         : "Institute of Automation, Chinese Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shensicheng0725@foxmail.com"
 
   # Academic websites
   academia         : # URL
