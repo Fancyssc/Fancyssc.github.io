@@ -28,7 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "ph.D Candidate working on brain-inspired AI & LLM and Embodied AI Safety"
   location         : "Beijing"
-  employer         : "Institute of Automation, Chinese Academy of Sciences"
+  employer         : "Institute of Automation, 
+                      Chinese Academy of Sciences"
   uri              : # URL
   email            : "shensicheng0725@foxmail.com"
 
@@ -74,13 +75,14 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Fancysean1"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
