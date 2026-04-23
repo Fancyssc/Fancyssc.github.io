@@ -33,9 +33,9 @@ Selected Publications
 Education
 ======
 
-- **University of Science and Technology of China (Beijing)**, direct Ph.D. track, 2024.09 - Present  
+- **Institute of Automation, CAS & UCAS**, direct Ph.D. track, 2024.09 - Present  
   GPA: 3.9 / 4.0
-- **Beijing Normal University**, B.Eng. in Software Engineering, 2020.09 - 2024.06  
+- **Beijing University of Posts & Telecom.**, B.Eng. in IOT, 2020.09 - 2024.06  
   GPA: 3.8 / 4.0, Rank: 2 / 190
 
 Research and Projects
