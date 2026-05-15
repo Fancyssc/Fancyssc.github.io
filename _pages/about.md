@@ -41,7 +41,7 @@ Education
 Research and Projects
 ======
 
-- **BrainCog Lab, CASIA**, 2023.08 - Present  
+- **Brain-inspired AI**, 2023.08 - Present
   Working on brain-inspired learning systems with a focus on temporal modeling, architecture design, optimization, benchmarking, and downstream applications of spiking neural networks and Spiking Transformers.
 - **Panda-Guard**, 2024.12 - 2025.04  
   Participated in the development of a unified benchmark for LLM jailbreak attacks, defenses, and judges. Related links: [code](https://github.com/Beijing-AISI/panda-guard), [paper](https://arxiv.org/abs/2505.13862).
