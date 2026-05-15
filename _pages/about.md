@@ -7,9 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am **Sicheng Shen (沈思成)**, a Ph.D. student affiliated with the **Institute of Automation, Chinese Academy of Sciences** and **Beijing Zhongguancun Academy**. My research lies at the intersection of **brain-inspired AI**, **spiking neural networks**, **LLM safety and alignment**, and **embodied / VLA safety**.
+I am **Sicheng Shen (沈思成)**, a Ph.D. student at the **Institute of Automation, Chinese Academy of Sciences**, affiliated with the **Beijing Zhongguancun Academy**.
 
-I am interested in building learning systems that are efficient, biologically motivated, and reliable in open-world settings. My recent work focuses on temporal modeling in Spiking Transformers, systematic evaluation of jailbreak safety in large language models, lightweight alignment methods for LLMs, and trustworthy alignment for vision-language-action systems.
+My research focuses on **brain-inspired artificial intelligence**, **spiking neural networks**, **LLM safety and alignment**, and **embodied / vision-language-action safety**. I am interested in developing learning systems that are efficient, biologically motivated, and reliable in open-world environments.
+
+My recent work includes temporal modeling in **Spiking Transformers**, systematic evaluation of **LLM jailbreak safety**, lightweight alignment methods for large language models, and trustworthy alignment for **vision-language-action systems**.
+
+I am advised by **Prof. Tielin Zhang** and **Prof. Dengpeng Xing**, and I am a member of the Brain-inspired Intelligence Research Group.
+
+- [Lab Homepage](http://www.zhangtielinhomepage.com/index.html)
+- [Prof. Tielin Zhang](https://scholar.google.com/citations?hl=zh-CN&user=87bZY8YAAAAJ)
+- [Prof. Dengpeng Xing](https://scholar.google.com/citations?hl=zh-CN&user=H8pyzeEAAAAJ)
 
 **Links:** [Google Scholar](https://scholar.google.com/citations?user=TuNfBGAAAAAJ&hl=zh-CN) · [GitHub](https://github.com/Fancyssc) · [Semantic Scholar](https://www.semanticscholar.org/author/Sicheng-Shen/2280370662)
 
